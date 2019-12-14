@@ -1,0 +1,17 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  title : We’re A Revolutionary Think Tank.
+  feature_Item : 
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : Cloud Optimized
+      
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : Easy Customization
+
+    - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      title : Scalable
+      
+    - icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      title : User Friendly

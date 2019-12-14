@@ -1,0 +1,22 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Howards Features
+  service_Item :
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : Assisted Living
+      
+    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      title : Distributed design
+      
+    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      title : Web Control
+      
+    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      title : Voice Commands
+      
+    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      title : SMS Emergency Support
+      
+    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      title : Networking

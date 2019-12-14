@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_Image : "images/slider/hero-area.jpg"
+  icon : "ti-wheelchair" # themify icon pack : https://themify.me/themify-icons
+  title : "Experience the new reality"
+  content : "The furture of acessability is now."
+  button:
+    enable : false
+    label : "Explore Us"
+    link : "#services"

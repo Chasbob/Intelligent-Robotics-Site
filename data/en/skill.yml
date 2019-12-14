@@ -1,0 +1,21 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : As a team we bring a lot to the table.
+  image : images/about/company-growth.png
+  skill_Item :
+    - name :  Effort
+      percent : 90%
+      
+    - name :  Effectiveness
+      percent : 55%
+      
+    - name :  Usability
+      percent : 80%
+      
+    - name :  Design
+      percent : 95%
+      
+    - name :  Intelligent Robotics
+      percent : 20%

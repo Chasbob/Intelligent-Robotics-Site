@@ -1,0 +1,13 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_Table :
+    # pricing table loop
+    - title : Free
+      price : Just take him
+      unit : Life
+      link : #
+      service:
+        - Broken robot
+        - Legs joined directly to a head

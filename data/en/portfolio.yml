@@ -1,0 +1,160 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  filter_List :
+    - filter_Type : teamwork
+      filter_Title : Teamwork
+      
+    - filter_Type : design
+      filter_Title : Design
+      
+    - filter_Type : inspiration
+      filter_Title : Inspiration
+
+    - filter_Type : motivation
+      filter_Title : Motivation
+
+  portfolio_Item :    
+        - types : [teamwork]
+          image : images/portfolio/0.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/1.jpg
+          URL : #
+    
+        # - types : [design]
+        #   image : images/portfolio/2.jpg
+        #   URL : #
+
+        # - types : [design]
+        #   image : images/portfolio/3.jpg
+        #   URL : #
+
+        - types : [inspiration]
+          image : images/portfolio/4.jpg
+          URL : #
+
+        - types : [design]
+          image : images/portfolio/5.jpg
+          URL : #
+
+        - types : [design]
+          image : images/portfolio/6.jpg
+          URL : #
+    
+        # - types : [motivation]
+        #   image : images/portfolio/7.jpg
+        #   URL : #
+    
+        - types : [motivatio]
+          image : images/portfolio/8.jpg
+          URL : #
+    
+        # - types : [motivation]
+        #   image : images/portfolio/9.jpg
+        #   URL : #
+    
+        - types : [motivation]
+          image : images/portfolio/10.jpg
+          URL : #
+    
+        # - types : [design]
+        #   image : images/portfolio/11.jpg
+        #   URL : #
+
+        # - types : [design]
+        #   image : images/portfolio/12.jpg
+        #   URL : #
+
+        - types : [inspiration]
+          image : images/portfolio/13.jpg
+          URL : #
+
+        - types : [teamwork]
+          image : images/portfolio/14.jpg
+          URL : #
+
+        # - types : [design]
+        #   image : images/portfolio/15.jpg
+        #   URL : #
+    
+        - types : [design]
+          image : images/portfolio/16.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/17.jpg
+          URL : #
+    
+        - types : [inspiration]
+          image : images/portfolio/18.jpg
+          URL : #
+    
+        - types : [inspiration]
+          image : images/portfolio/19.jpg
+          URL : #
+    
+        # - types : [design]
+        #   image : images/portfolio/20.jpg
+        #   URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/21.jpg
+          URL : #
+    
+        - types : [design]
+          image : images/portfolio/22.jpg
+          URL : #
+    
+        - types : [motivation, inspiration]
+          image : images/portfolio/23.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/24.jpg
+          URL : #
+
+        - types : [teamwork]
+          image : images/portfolio/25.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/26.jpg
+          URL : #
+    
+        - types : [design]
+          image : images/portfolio/27.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/28.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/29.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/30.jpg
+          URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/31.jpg
+          URL : #
+
+        # - types : [design]
+        #   image : images/portfolio/32.jpg
+        #   URL : #
+    
+        - types : [teamwork]
+          image : images/portfolio/33.jpg
+          URL : #
+
+        # - types : [inspiration]
+        #   image : images/portfolio/34.jpg
+        #   URL : #
+
+        - types : [inspiration]
+          image : images/portfolio/35.jpg
+          URL : #
