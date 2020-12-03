@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://me.defreitas.io/Intelligent-Robotics-Site"
+baseURL = "https://chasbob.github.io/Intelligent-Robotics-Site/"
 title = "Howard"
 theme = "meghna-hugo"
 # post pagination
